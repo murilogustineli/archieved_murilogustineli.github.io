@@ -36,14 +36,15 @@ abstract: We present working notes on transfer learning with semi-supervised dat
 tags: ["Transfer Learning", "Deep Learning", "Semi-Supervised", "BirdCLEF"]
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
+publications: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://ceur-ws.org/Vol-3497/paper-177.pdf
+url_pdf: 'https://ceur-ws.org/Vol-3497/paper-177.pdf'
 url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
 # url_dataset: ''
 # url_poster: ''

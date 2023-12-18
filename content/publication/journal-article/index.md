@@ -49,7 +49,7 @@ url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '/images/birdnet-embeddings-v3.png'
+  caption: 'BirdCLEF 2023'
   focal_point: ""
   preview_only: false
 
