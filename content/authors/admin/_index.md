@@ -39,10 +39,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Computer Science; Machine Learning
+    - course: MSc in Computer Science; Machine Learning
       institution: Georgia Institute of Technology
       # year: 2025
-    - course: MS in Information Systems
+    - course: MSc in Information Systems
       institution: University of Nevada, Las Vegas
       # year: 20202
     - course: BSc in Business Administration
