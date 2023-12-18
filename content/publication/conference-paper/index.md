@@ -36,8 +36,7 @@ abstract: We present working notes on transfer learning with semi-supervised dat
 tags: ["Transfer Learning", "Deep Learning", "Semi-Supervised", "BirdCLEF"]
 
 # Display this page in the Featured widget?
-# featured: true
-publications: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
