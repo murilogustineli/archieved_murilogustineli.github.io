@@ -7,7 +7,7 @@ title: Murilo Gustineli
 
 # Full name (for SEO)
 first_name: Murilo
-last_name: Gustineli
+last_name: **Gustineli**
 
 # Status emoji
 status:
