@@ -35,7 +35,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-url: 'https://arxiv.org/abs/2204.02921'
+url: https://arxiv.org/abs/2204.02921
 url_pdf: 'https://arxiv.org/pdf/2204.02921.pdf'
 # url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
 # url_dataset: ''
