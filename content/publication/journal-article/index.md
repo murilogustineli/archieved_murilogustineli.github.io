@@ -32,7 +32,7 @@ abstract: We present working notes on transfer learning with semi-supervised dat
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

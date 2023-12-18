@@ -42,7 +42,6 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
 url_pdf: 'https://ceur-ws.org/Vol-3497/paper-177.pdf'
 url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
 # url_dataset: ''
