@@ -65,7 +65,7 @@ sections:
         - title: Data Scientist
           company: Insight
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Raleigh, NC
           date_start: '2021-06-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Jr. Machine Learning Engineer
           company: Omdena
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: Remote
           date_start: '2021-01-01'
           date_end: '2021-05-31'
@@ -86,7 +86,7 @@ sections:
         - title: Business Intelligence Engineer Intern
           company: Amazon Web Services
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: Seattle, WA
           date_start: '2021-01-01'
           date_end: '2021-05-31'
