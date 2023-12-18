@@ -88,8 +88,8 @@ sections:
           company_url: ''
           # company_logo: org-x
           location: Seattle, WA
-          date_start: '2021-01-01'
-          date_end: '2021-05-31'
+          date_start: '2020-06-01'
+          date_end: '2020-08-31'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
