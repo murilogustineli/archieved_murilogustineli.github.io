@@ -203,7 +203,7 @@ sections:
   #     columns: '1'
 
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Featured Publications
       filters:
