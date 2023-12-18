@@ -27,7 +27,7 @@ organizations:
     url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, transfer learning, computer vision, and NLP.
+bio: My research interests include deep learning, computer vision, and NLP
 
 # Interests to show in About widget
 interests:

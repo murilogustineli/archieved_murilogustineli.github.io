@@ -1,23 +1,17 @@
 ---
-title: "Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification"
+title: "A survey on recently proposed activation functions for Deep Learning"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Anthony Miyaguchi
-- Nathan Zhong
 - admin
-- Chris Hayduk
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "2023-06-29T00:00:00Z"
+# author_notes:
+# - "Equal contribution"
+date: "2022-04-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-29T00:00:00Z"
+publishDate: "202-04-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,15 +19,15 @@ publishDate: "2023-06-29T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "CEUR Workshop Proceedings (CEUR-WS.org)"
-publication_short: "CEUR"
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: We present working notes on transfer learning with semi-supervised dataset annotation for the BirdCLEF 2023 competition, focused on identifying African bird species in recorded soundscapes. Our approach utilizes existing off-the-shelf models, BirdNET and MixIT, to address representation and labeling challenges in the competition. We explore the embedding space learned by BirdNET and propose a process to derive an annotated dataset for supervised learning. Our experiments involve various models and feature engineering approaches to maximize performance on the competition leaderboard. The results demonstrate the effectiveness of our approach in classifying bird species and highlight the potential of transfer learning and semi-supervised dataset annotation in similar tasks.
+abstract: Artificial neural networks (ANN), typically referred to as neural networks, are a class of Machine Learning algorithms and have achieved widespread success, having been inspired by the biological structure of the human brain. Neural networks are inherently powerful due to their ability to learn complex function approximations from data. This generalization ability has been able to impact multidisciplinary areas involving image recognition, speech recognition, natural language processing, and others. Activation functions are a crucial sub-component of neural networks. They define the output of a node in the network given a set of inputs. This survey discusses the main concepts of activation functions in neural networks, including; a brief introduction to deep neural networks, a summary of what are activation functions and how they are used in neural networks, their most common properties, the different types of activation functions, some of the challenges, limitations, and alternative solutions faced by activation functions, concluding with the final remarks.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Transfer Learning", "Deep Learning", "Semi-Supervised", "BirdCLEF"]
+tags: ["Activation Functions", "Deep Learning", "Survey"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,8 +36,8 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://ceur-ws.org/Vol-3497/paper-177.pdf'
-url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
+url_pdf: 'https://arxiv.org/abs/2204.02921'
+# url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -54,7 +48,7 @@ url_code: 'https://github.com/dsgt-birdclef/birdclef-2023'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'BirdCLEF 2023'
+  caption: 'Activation Functions for Deep Learning'
   focal_point: ''
   preview_only: false
 
