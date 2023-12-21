@@ -124,4 +124,6 @@ highlight_name: true
 ---
 
 🚀 Hi there, I’m Murilo! I'm a data scientist at Insight. I'm also pursuing my master's in Computer Science focusing on Machine Learning at Georgia Tech. I am particularly interested in Deep Learning, Computer Vision, Natural Language Processing (NLP), Reinforcement Learning, and research.
+
+**NOTE:** This website is deprecated! Head over to [murilogustineli.com](www.murilogustineli.com) to access the updated version 😊 
 {style="text-align: justify;"}
